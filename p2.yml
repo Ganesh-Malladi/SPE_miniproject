@@ -1,0 +1,11 @@
+---
+- name: pulling scientific_calculator docker image
+  hosts: all
+  tasks:             
+          - name: Pulling junit devops image 
+            docker_image:
+                  name: manoharsuggula/scientific_calculator
+                  source: pull
+
+          - name: creating an updated container
+            shell: docker run -id manoharsuggula/scientific_calculator
