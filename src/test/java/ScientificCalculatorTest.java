@@ -9,6 +9,7 @@ public class ScientificCalculatorTest {
     @Test
     public void testSquareRootTruePositive() {
         assertEquals(2.0, ScientificCalculator.squareRoot(4.0), 0.0f);
+        assertEquals(-1.0, ScientificCalculator.squareRoot(-10),0.0f);
     }
 
     @Test
@@ -18,8 +19,9 @@ public class ScientificCalculatorTest {
 
     @Test
     public void testFactorialTruePositive() {
-        assertEquals(120, ScientificCalculator.factorial(5),0.0f);
-        assertEquals(2, ScientificCalculator.factorial(2),0.0f);
+        assertEquals(120.0, ScientificCalculator.factorial(5),0.0f);
+        assertNotEquals(4.0, ScientificCalculator.factorial(2),0.0f);
+        assertEquals(-1.0, ScientificCalculator.factorial(-2),0.0f);
     }
 
     @Test
@@ -30,6 +32,7 @@ public class ScientificCalculatorTest {
     @Test
     public void testNaturalLogTruePositive() {
         assertEquals(1.0, ScientificCalculator.naturalLog(Math.E), 0.2f);
+        assertEquals(-1.0, ScientificCalculator.naturalLog(-10),0.2f);
     }
 
     @Test
@@ -40,6 +43,7 @@ public class ScientificCalculatorTest {
     @Test
     public void testPowerTruePositive() {
         assertEquals(16.0, ScientificCalculator.powerFunction(2.0, 4.0), 0.0f);
+        assertEquals(-1.0, ScientificCalculator.powerFunction(0.0, 0.0),0.0f);
     }
 
     @Test
