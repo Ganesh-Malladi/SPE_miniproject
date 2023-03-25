@@ -4,8 +4,8 @@
   tasks:             
           - name: Pulling junit devops image 
             docker_image:
-                  name: ganeshmalladi/scientific_calculator
+                  name: ganeshmalladi/spe_miniproject
                   source: pull
 
           - name: creating an updated container
-            shell: docker run -id ganeshmalladi/scientific_calculator
+            shell: docker run -id ganeshmalladi/spe_miniproject
