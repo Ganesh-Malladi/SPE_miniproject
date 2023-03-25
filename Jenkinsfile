@@ -7,7 +7,6 @@ pipeline {
     stages {
         stage('Git Pull stage') {
             steps {
-                // Get some code from a GitHub repository
                 git url:'https://github.com/Ganesh-Malladi/SPE_miniproject',
                     branch:"master"
             }
@@ -52,7 +51,6 @@ pipeline {
             steps{
                 sh "/usr/bin/pip3 install docker"
                 sh "ansible-playbook p2.yml -i inventory"
-                // ansiblePlaybook becomeUser: null, colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'calculator-playbook.yml', sudoUser: null
             }
         }
     }
