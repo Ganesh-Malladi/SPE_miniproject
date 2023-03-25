@@ -1,0 +1,5 @@
+25/03/2023:19:56:50 014 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve not defined.
+25/03/2023:19:57:08 597 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve not defined.
+25/03/2023:19:58:16 968 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve not defined.
+25/03/2023:19:58:55 124 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 35
+25/03/2023:19:58:55 125 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 0

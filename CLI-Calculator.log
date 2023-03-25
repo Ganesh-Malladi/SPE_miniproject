@@ -143,3 +143,47 @@
 25/03/2023:19:18:36 664 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
 25/03/2023:19:18:36 664 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
 25/03/2023:19:18:36 666 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Logarithm of -ve not defined.
+25/03/2023:19:52:01 653 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+25/03/2023:19:52:01 679 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+25/03/2023:19:52:01 691 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Logarithm of -ve not defined.
+25/03/2023:19:52:01 692 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+25/03/2023:19:52:01 692 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+25/03/2023:19:52:01 703 [ScientificCalculator.java] [INFO] ScientificCalculator [POW] - 2.0, 4.0
+25/03/2023:19:52:01 704 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POW] - 16.0
+25/03/2023:19:52:01 704 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - 0 power 0 is not defined.
+25/03/2023:19:52:01 705 [ScientificCalculator.java] [INFO] ScientificCalculator [POW] - 2.0, 4.0
+25/03/2023:19:52:01 706 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POW] - 16.0
+25/03/2023:19:52:01 708 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+25/03/2023:19:52:01 709 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+25/03/2023:19:52:01 710 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve number not defined.
+25/03/2023:19:52:01 711 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+25/03/2023:19:52:01 713 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+25/03/2023:19:52:01 714 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 5
+25/03/2023:19:52:01 714 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 120
+25/03/2023:19:52:01 714 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 2
+25/03/2023:19:52:01 715 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 2
+25/03/2023:19:52:01 715 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve not defined.
+25/03/2023:19:52:01 716 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 5
+25/03/2023:19:52:01 716 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 120
+25/03/2023:19:53:47 709 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+25/03/2023:19:53:47 733 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+25/03/2023:19:53:47 745 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Logarithm of -ve not defined.
+25/03/2023:19:53:47 745 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+25/03/2023:19:53:47 746 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+25/03/2023:19:53:47 756 [ScientificCalculator.java] [INFO] ScientificCalculator [POW] - 2.0, 4.0
+25/03/2023:19:53:47 757 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POW] - 16.0
+25/03/2023:19:53:47 757 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - 0 power 0 is not defined.
+25/03/2023:19:53:47 758 [ScientificCalculator.java] [INFO] ScientificCalculator [POW] - 2.0, 4.0
+25/03/2023:19:53:47 758 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POW] - 16.0
+25/03/2023:19:53:47 759 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+25/03/2023:19:53:47 760 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+25/03/2023:19:53:47 760 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve number not defined.
+25/03/2023:19:53:47 761 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+25/03/2023:19:53:47 761 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+25/03/2023:19:53:47 762 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 5
+25/03/2023:19:53:47 762 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 120
+25/03/2023:19:53:47 762 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 2
+25/03/2023:19:53:47 763 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 2
+25/03/2023:19:53:47 763 [ScientificCalculator.java] [ERROR] ScientificCalculator [ERROR] - Factorial of -ve not defined.
+25/03/2023:19:53:47 763 [ScientificCalculator.java] [INFO] ScientificCalculator [FACT] - 5
+25/03/2023:19:53:47 764 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACT] - 120
