@@ -9,7 +9,7 @@ pipeline {
             steps {
                 // Get some code from a GitHub repository
                 git url:'https://github.com/Ganesh-Malladi/SPE_miniproject',
-                    branch:"master"
+                    branch:"main"
             }
         }
         stage('Maven Test'){
