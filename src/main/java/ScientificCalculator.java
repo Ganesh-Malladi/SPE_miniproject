@@ -73,6 +73,7 @@ public class ScientificCalculator{
         {
             //Changes made
             //Another change
+            //Another change -2
             logger.error("[ERROR] - Logarithm of 0 not defined.");
             return -1.0;
         }
