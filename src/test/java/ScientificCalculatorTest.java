@@ -19,6 +19,7 @@ public class ScientificCalculatorTest {
     @Test
     public void testFactorialTruePositive() {
         assertEquals(120, ScientificCalculator.factorial(5),0.0f);
+        assertEquals(2, ScientificCalculator.factorial(2),0.0f);
     }
 
     @Test
